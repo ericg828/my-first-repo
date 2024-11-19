@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 st.title("Firearm Injury Death Data Visualization App")
 
 # Use the file path from Colab
-file_path = '/content/Firearm Injury Death by Year, New Mexico and U.S.csv'
+file_path = 'Firearm Injury Death by Year, New Mexico and U.S.csv'
 
 # Check if the file exists
 try:
